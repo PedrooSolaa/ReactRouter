@@ -1,6 +1,3 @@
-¡Claro! 😊 Aquí tienes la **traducción completa al español** del archivo `.md`.
-He mantenido **el código intacto** y solo he traducido los textos explicativos, títulos y descripciones.
-
 ---
 
 # Práctica Guiada – SPA de Gestión de Usuarios con React Router
